@@ -1,5 +1,3 @@
-# Plasma Clock #
+# Snake Clock #
 
-A simple but pleasant clock with a plasma background and the time in negative space on top of that.
-
-![plasma background clock](./plasmaclock.gif)
+A simple clock with an auto pplaying snake game in the background .
